@@ -5,3 +5,16 @@ p {
 li {
     color:darkgrey;
 }
+
+.branches{
+    font-size: 25px;
+    margin: 2px solid;
+    color: black
+}
+
+.branches li{
+    color: black;
+}
+.branches p {
+    background-color: red;
+}
